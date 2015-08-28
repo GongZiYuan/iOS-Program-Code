@@ -5,7 +5,7 @@
 准备工作
 
 1）已越狱的设备，并且已安装了OpenSSH,MobileSubstrate,Terminal等实用工具(Cydia源里安装)
-2）本地已安装了[Reveal](http://pan.baidu.com/disk/home#render-type=grid-view)
+2）本地已安装了[Reveal](http://pan.baidu.com/s/1jGKpsY6)
 
 
 操作步骤
