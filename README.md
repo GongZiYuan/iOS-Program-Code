@@ -8,4 +8,7 @@
  
  [关于MVVM模式](https://github.com/GongZiYuan/iOS-Program-Code/blob/master/iOS%E6%8A%80%E6%9C%AF/%E5%85%B3%E4%BA%8EMVVM%E6%A8%A1%E5%BC%8F.md)
 
+[reveal查看任意app](https://github.com/GongZiYuan/iOS-Program-Code/blob/master/iOS%E6%8A%80%E6%9C%AF/reveal%E6%9F%A5%E7%9C%8B%E4%BB%BB%E6%84%8Fapp.md)
+
+
 ##随笔
